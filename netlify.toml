@@ -14,7 +14,7 @@ command = "hugo -F -b $DEPLOY_PRIME_URL"
 HUGO_ENV = "production"
 
 [[redirects]]
-  from = "/self-study/an-introduction-to-statistical-learning/"
-  to = "https://tidytales-an-introduction-to-statistical-learning.netlify.app"
+  from = "/self-study/an-introduction-to-statistical-learning/*"
+  to = "https://tidytales-an-introduction-to-statistical-learning.netlify.app/:splat"
   status = 200
   force = true
