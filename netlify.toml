@@ -15,6 +15,6 @@ HUGO_ENV = "production"
 
 [[redirects]]
   from = "https://tidytales-an-introduction-to-statistical-learning.netlify.app"
-  to = "/self-study/an-introduction-to-statistical-learning/"
+  to = "/self-study/an-intro-to-statistical-learning/"
   status = 200
   force = true
