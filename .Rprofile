@@ -16,6 +16,19 @@ if (interactive()) {
                             update_config = FALSE,
                             force = TRUE)
   }
+  # Add function for printing useful links for the Hugo Apero theme
+  theme_help <- function() {
+    cat(
+      "GitHub links:\n",
+      "- https://github.com/hugo-apero \n",
+      "- https://github.com/hugo-apero/hugo-apero \n",
+      "- https://github.com/hugo-apero/hugo-apero-docs \n\n",
+      "Example site:\n",
+      "- https://hugo-apero.netlify.app \n\n",
+      "Documentation site:\n",
+      "- https://hugo-apero-docs.netlify.app"
+    )
+  }
 }
 
 # Now set options to customize the behaviour of blogdown for this project. Below
