@@ -1,0 +1,13 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+  <section class="page-content mw7 center">
+    <h2 class="f2 f1-ns lh-solid tc center fw4">{{ .Title | markdownify }}</h2>
+    {{ with .Description }}<p class="f6 measure lh-copy">{{ . | markdownify }}</p>{{ end }}
+    <div class="flex justify-between">
+      <p class="f6 measure lh-copy b">{{ if .Params.author }}{{ .Params.author }}{{ end }}</p>
+      <p class="f6 measure lh-copy">{{ if .Params.last_revised }}{{ .Params.last_revised }}{{ end }}</p>
+    </div>
+    {{ .Content }}
+  </section>
+</main>
+{{ end }}

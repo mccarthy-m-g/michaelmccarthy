@@ -129,6 +129,11 @@ enableEmoji = true
     title = "Self Study"
     url = "/self-study/"
     weight = 4
+  [[menu.header]]
+    name = "Experience"
+    title = "Experience"
+    url = "/experience/"
+    weight = 5
 
   # Configure footer
   [[menu.footer]]
