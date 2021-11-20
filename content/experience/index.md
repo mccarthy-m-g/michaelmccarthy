@@ -10,13 +10,13 @@ type: experience
 <section class="group-content pb3 pb4-ns bt">
     <h5 class="f4 fw7 tracked ttu lh-title mv3">Education</h5>
       <!-- Item 1 -->
-      <div class="flex justify-between">
-        <div class="w-third pl0-ns">
-          <p>September 2020 – Present</p>
+      <div class="cf ph0-ns">
+        <div class="fl w-100 w-third-ns pv2-ns pv1">
+          <p pv0 mv0>September 2020 – Present</p>
         </div>
-        <div class="w-two-thirds pl0-ns">
-          <div class="mv3">
-            <p class="mv0 b">Master of Science, Psychology (Brain and Cognitive Science)</p>
+        <div class="fl w-100 w-two-thirds-ns pv2-ns pv1 pl2-ns">
+          <div class="">
+            <p class="pt0 mv0 mt3-ns b">Master of Science, Psychology (Brain and Cognitive Science)</p>
             <div class="fl w-100 mt1">
               <p class="di">University of Calgary</p>
               <p class="di">&middot</p>
@@ -24,21 +24,21 @@ type: experience
             </div>
           </div>
           <div class="fl w-100">
-           <ul class="pl3 mt1">
+           <ul class="cf pl3 mt1">
             <li class="fl w-100 mv1">
-              <p class="fl w-30-ns mv0">Thesis title:</p>
-              <p class="fl w-70-ns mv0">Individual differences in EEG connectomes</p>
+              <p class="fl w-100 w-30-ns mv0">Thesis title:</p>
+              <p class="fl w-100 w-70-ns mv0">Individual differences in EEG connectomes</p>
             </li>
             <li class="fl w-100 mv1">
-              <p class="fl w-30-ns mv0">Advisor:</p>
-              <p class="fl w-70-ns mv0">Dr. Andrea Protzner</p>
+              <p class="fl w-100 w-30-ns mv0">Advisor:</p>
+              <p class="fl w-100 w-70-ns mv0">Dr. Andrea Protzner</p>
             </li>
            </ul>
           </div>
         </div>
       </div>
       <!-- Item 2 -->
-      <div class="flex justify-between">
+      <div class="flex">
         <div class="w-third pl0-ns">
           <p>Jun 2019 – Jun 2019</p>
         </div>
@@ -52,6 +52,28 @@ type: experience
         </div>
       </div>
 </section>
+
+<div class="mw9 center ph0-ns">
+  <div class="cf ph0-ns">
+    <div class="fl w-100 w-third-ns pv2">
+      <div class="outline bg-white pv4"></div>
+    </div>
+    <div class="fl w-100 w-two-thirds-ns pv2 pl2-ns">
+      <div class="outline bg-white pv4"></div>
+    </div>
+  </div>
+</div>
+
+<div class="cf ph0-ns">
+        <div class="fl w-100 w-third-ns pv4-ns pv1">
+          <p class="pv0 mv0">September 2020 – Present</p>
+        </div>
+        <div class="fl w-100 w-two-thirds-ns pv4-ns pv1 pl2-ns">
+          <div class="">
+            <p class="pv0 mv0">Master of Science, Psychology (Brain and Cognitive Science)</p>
+          </div>
+        </div>
+      </div>
 
 <h5 class="f4 fw7 tracked ttu lh-title mv3 ba bl-0 br-0 bb-0">Education</h5>
 
