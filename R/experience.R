@@ -23,12 +23,12 @@ entry_html <- function(
 ) {
   paste(
     glue('
-      <div class="cf">
+      <div class="cf mv3">
         <div class="fl w-100 w-third-ns">
           <p class="mb0 mv2-ns">{when}</p>
         </div>
         <div class="fl w-100 w-two-thirds-ns pl2-ns">
-          <p class="mt2 mb2 b">{what}</p>
+          <p class="mv2 b">{what}</p>
           <p class="di">{with}</p>
           <p class="di">&middot</p>
           <p class="di">{where}</p>
@@ -40,7 +40,7 @@ entry_html <- function(
       ',
       paste(
         glue('
-            <li class="fl w-100 pv2">
+            <li class="fl w-100 mv1">
               <p class="fl w-100 w-30-ns mv0">{names(unlist(details))}</p>
               <p class="fl w-100 w-70-ns mv0">{unlist(details)}</p>
             </li>
