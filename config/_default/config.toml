@@ -97,6 +97,10 @@ enableEmoji = true
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/michael-g-mccarthy/"
+  [[params.social]]
+      icon      = "envelope" # icon name without the 'fa-'
+      icon_pack = "fas"
+      url       = "/contact/"
   # [[params.social]]
   #    icon      = "rss" # icon name without the 'fa-'
   #    icon_pack = "fas"

@@ -3,7 +3,10 @@ title: Experience
 author: Michael McCarthy
 description: |
   This page is a work in progress
+  
 last_revised: Work in progress
+show_social_links: true
+
 type: experience
 ---
 
