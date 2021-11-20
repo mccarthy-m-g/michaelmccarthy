@@ -119,25 +119,30 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
+    name = "Blog"
+    title = "Blog"
+    url = "https://tidytales.ca/"
+    weight = 2
+  [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
-    weight = 2
+    weight = 3
   [[menu.header]]
     name = "Talks"
     title = "Talks"
     url = "/talk/"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "Self Study"
     title = "Self Study"
     url = "/self-study/"
-    weight = 4
+    weight = 5
   [[menu.header]]
     name = "Experience"
     title = "Experience"
     url = "/experience/"
-    weight = 5
+    weight = 6
 
   # Configure footer
   [[menu.footer]]
