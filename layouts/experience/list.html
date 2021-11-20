@@ -1,18 +1,43 @@
 {{ define "main" }}
 <main class="page-main pa4" role="main">
-  <section class="blog-intro mw7 center mb5">
+  <section class="page-content mw7 center">
     <h2 class="f2 f1-ns lh-solid tc center fw4">{{ .Title | markdownify }}</h2>
-    {{ with .Description }}<p class="f6 f5-ns measure lh-copy tc center">{{ . | markdownify }}</p>{{ end }}
-    {{ if .Params.show_author_byline }}<p class="f7 measure lh-copy tc center i">{{ if .Params.author }}Written by {{ .Params.author }}{{ end }}</p>{{ end }}
+    {{ with .Description }}<p class="f6 measure lh-copy tc center">{{ . | markdownify }}</p>{{ end }}
+    <div class="flex justify-between">
+      <p class="f6 measure lh-copy b">{{ if .Params.author }}{{ .Params.author }}{{ end }}</p>
+      <p class="f6 measure lh-copy">{{ if .Params.last_revised }}{{ .Params.last_revised }}{{ end }}</p>
+    </div>
+    {{ if .Params.show_social_links }}
+      <p class="measure-narrow mv0 lh-copy">
+        {{ partial "shared/social-links.html" . }}
+      </p>
+    {{ end }}
+    {{ .Content }}
   </section>
-  <section class="blog-content mw7 center">
-    {{ $caller := . }}
-    {{ $paginator := .Paginate (where .RegularPagesRecursive "Type" .Section).ByDate.Reverse }}
-      {{ range $paginator.Pages }}
-        {{ .Scratch.Set "$root" $caller }}
-        {{ partial "shared/summary" . }}
-      {{ end }}
-    {{ partial "shared/list-pagination.html" . }}
+</main>
+<main class="page-main pa4" role="main">
+  <section class="page-content mw7 center">
+    <article class="post-content pa0 pr3-l">
+      <header class="post-header">
+        <h2 class="f2 f1-ns lh-solid tc center fw4">{{ .Title | markdownify }}</h2>
+        {{ with .Description }}<p class="f6 measure lh-copy tc center">{{ . | markdownify }}</p>{{ end }}
+        <div class="flex justify-between">
+          <p class="f6 measure lh-copy b">{{ if .Params.author }}{{ .Params.author }}{{ end }}</p>
+          <p class="f6 measure lh-copy">{{ if .Params.last_revised }}{{ .Params.last_revised }}{{ end }}</p>
+        </div>
+        {{ if .Params.show_social_links }}
+          <p class="measure-narrow mv0 lh-copy">
+            {{ partial "shared/social-links.html" . }}
+          </p>
+        {{ end }}
+      </header>
+      <section class="post-body pt0 pb4">
+        {{ .Content }}
+      </section>
+      <footer class="post-footer">
+
+      </footer>
+    </article>
   </section>
 </main>
 {{ end }}

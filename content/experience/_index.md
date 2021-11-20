@@ -7,7 +7,18 @@ description: |
 last_revised: Work in progress
 show_social_links: true
 
+# for list-sidebar layout
+sidebar: 
+  title: Hi, my name is Michael. Nice to meet you.
+  description: |
+    This sidebar is a work in progress.
+  author: 
+  text_link_label: Contact
+  text_link_url: /contact/
+  show_sidebar_adunit: false # show ad container
+
 type: experience
+layout: list-sidebar
 ---
 
 <!--
