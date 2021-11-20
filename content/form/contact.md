@@ -6,7 +6,7 @@ description: |
   Let's get to know each other.
   
   --Michael
-formspree_form_id: michael.mccarthy@tidytales.ca
+formspree_form_id: mzbynqvb
 show_poweredby_formspree: false
 show_social_links: true
 submit_button_label: Send Message
