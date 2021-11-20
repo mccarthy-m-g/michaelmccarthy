@@ -26,12 +26,12 @@ type: experience
           <div class="fl w-100">
            <ul class="pl3 mt1">
             <li class="fl w-100 mv1">
-              <p class="fl w-30 mv0">Thesis title:</p>
-              <p class="fl w-70 mv0">Individual differences in EEG connectomes</p>
+              <p class="fl w-30-ns mv0">Thesis title:</p>
+              <p class="fl w-70-ns mv0">Individual differences in EEG connectomes</p>
             </li>
             <li class="fl w-100 mv1">
-              <p class="fl w-30 mv0">Advisor:</p>
-              <p class="fl w-70 mv0">Dr. Andrea Protzner</p>
+              <p class="fl w-30-ns mv0">Advisor:</p>
+              <p class="fl w-70-ns mv0">Dr. Andrea Protzner</p>
             </li>
            </ul>
           </div>
