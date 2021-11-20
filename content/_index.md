@@ -6,7 +6,7 @@ action_link: /about
 action_type: text
 image_left: true
 images:
-- img/revoir.jpg
+- img/hero.png
 show_action_link: true
 show_social_links: true
 subtitle: A place for myself
