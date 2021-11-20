@@ -15,16 +15,24 @@ type: experience
           <p>September 2020 – Present</p>
         </div>
         <div class="w-two-thirds pl0-ns">
-          <p class="b">Master of Science, Psychology (Brain and Cognitive Science)</p>
-          <div class="fl w-100">
-            <p class="di">University of Calgary</p>
-            <p class="di">&middot</p>
-            <p class="di">Calgary AB, Canada</p>
+          <div class="mv3">
+            <p class="mv0 b">Master of Science, Psychology (Brain and Cognitive Science)</p>
+            <div class="fl w-100 mt1">
+              <p class="di">University of Calgary</p>
+              <p class="di">&middot</p>
+              <p class="di">Calgary AB, Canada</p>
+            </div>
           </div>
           <div class="fl w-100">
-           <ul class="pl3">
-            <li>Thesis title: Individual differences in EEG connectomes</li>
-            <li>Advisor: Dr. Andrea Protzner</li>
+           <ul class="pl3 mt1">
+            <li class="fl w-100 mv1">
+              <p class="fl w-30 mv0">Thesis title:</p>
+              <p class="fl w-70 mv0">Individual differences in EEG connectomes</p>
+            </li>
+            <li class="fl w-100 mv1">
+              <p class="fl w-30 mv0">Advisor:</p>
+              <p class="fl w-70 mv0">Dr. Andrea Protzner</p>
+            </li>
            </ul>
           </div>
         </div>
