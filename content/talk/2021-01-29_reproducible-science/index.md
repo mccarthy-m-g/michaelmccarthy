@@ -22,4 +22,6 @@ show_post_time: false
 featured: false
 ---
 
+## Details
+
 What is reproducibility and why is it important that your scientific work is reproducible? Reproducibility refers to a scientific pipeline whose steps, processes, procedures, and results can be reproduced by other scientists (or future you), ensuring that results can be verified, and that the decisions that led to those results can be understood. In our first Winter 2021 session we will be joined by MSc student Michael McCarthy, who will share with you an opinionated introduction on doing reproducible science. We’ll discuss general principles and procedures, share some neat tricks to make your work better and easier to do, and go over resources you can use to make your science reproducible too.

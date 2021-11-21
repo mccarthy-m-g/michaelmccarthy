@@ -21,6 +21,8 @@ date_end: "2021-02-12T17:30:00Z"
 location: Online
 ---
 
+## Details
+
 This workshop covers principles and practices important for making your manuscripts reproducible by other scientists (or future you). We will learn about these principles and practices and how to implement them through a fake scientific paper, written by Bones and Spock from the television series *Star Trek: The Original Series*, made for showcasing how to write reproducible manuscripts in R Markdown.
 
 This workshop is a followup to my talk, *Doing reproducible science*.
