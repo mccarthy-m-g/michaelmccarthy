@@ -1,11 +1,13 @@
 ---
-cascade:
-  headless: true
+title: About
 description: |
   All about me.
+
 show_header: true
 sidebar_left: false
-title: About
+
+cascade:
+  headless: true
 ---
 
 ** index doesn't contain a body, just front matter above.
