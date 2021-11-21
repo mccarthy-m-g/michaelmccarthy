@@ -4,6 +4,12 @@
 // apparently. The `about/list.html` layout can be deleted after my PR is
 // merged. It is only needed right now to call `.aboutme-sidebar` instead of
 // `.about-sidebar`.
+.stickyme {
+  position: -webkit-sticky;
+  position: sticky;
+  @extend .static-l, .top-1-l, .pt5;
+}
+
 .aboutme-sidebar {
-  @extend .self-start, .sticky, .bg-#{$sidebarBgColor}, .#{$sidebarTextColor};
+  @extend .self-start, .stickyme, .bg-#{$sidebarBgColor}, .#{$sidebarTextColor};
 }
