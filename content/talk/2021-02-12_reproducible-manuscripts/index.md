@@ -18,7 +18,8 @@ links:
   url: https://github.com/mccarthy-m-g/mccoy-and-spock-2287
 date: "2021-02-12T16:00:00Z"
 date_end: "2021-02-12T17:30:00Z"
-location: Online
+location: University of Calgary
+event: Open Science Student Support Group
 ---
 
 ## Details

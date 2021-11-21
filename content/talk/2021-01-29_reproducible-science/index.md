@@ -16,7 +16,7 @@ links:
 date: "2021-01-29T16:00:00Z"
 date_end: "2021-01-29T17:30:00Z"
 location: University of Calgary
-event: Open Science Student Support Group session
+event: Open Science Student Support Group
 event_url: 
 show_post_time: false
 featured: false
