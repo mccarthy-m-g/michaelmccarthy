@@ -1,0 +1,13 @@
+// Override this file to add your own SCSS styling.
+
+.aboutme-sidebar {
+  @extend .sticky-sidebar, .static-l, .top-0-l, .pt5, .bg-#{$sidebarBgColor}, .#{$sidebarTextColor};
+}
+
+@media (min-width: 30em) {
+  .sticky-sidebar {
+    align-self: flex-start;
+    position: -webkit-sticky;
+    position: sticky;
+  }
+}

@@ -8,6 +8,14 @@ link_list_label: Getting to know me # bookmarks, elsewhere, etc.
 link_list:
 - name: Check out Michael's blog
   url: https://tidytales.ca
+- name: Check out Michael's blog
+  url: https://tidytales.ca
+- name: Check out Michael's blog
+  url: https://tidytales.ca
+- name: Check out Michael's blog
+  url: https://tidytales.ca
+- name: Check out Michael's blog
+  url: https://tidytales.ca
 ---
 
 ** index doesn't contain a body, just front matter above.
