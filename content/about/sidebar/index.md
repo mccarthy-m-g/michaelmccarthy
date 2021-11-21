@@ -1,14 +1,13 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Michael McCarthy"
-role: ""
+role: "Data Science, R Programming, Music"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
-audio_link_label: "" # leave blank to exclude
-link_list_label: "" # bookmarks, elsewhere, etc.
+link_list_label: Getting to know me # bookmarks, elsewhere, etc.
 link_list:
-- name: 
-  url: 
+- name: Check out Michael's blog
+  url: https://tidytales.ca
 ---
 
 ** index doesn't contain a body, just front matter above.
