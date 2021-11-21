@@ -1,13 +1,9 @@
 // Override this file to add your own SCSS styling.
 
+// Temporary fix for .about-sidebar because it can't be completely overwritten
+// apparently. The `about/list.html` layout can be deleted after my PR is
+// merged. It is only needed right now to call `.aboutme-sidebar` instead of
+// `.about-sidebar`.
 .aboutme-sidebar {
-  @extend .sticky-sidebar, .static-l, .top-0-l, .pt5, .bg-#{$sidebarBgColor}, .#{$sidebarTextColor};
-}
-
-@media (min-width: 30em) {
-  .sticky-sidebar {
-    align-self: flex-start;
-    position: -webkit-sticky;
-    position: sticky;
-  }
+  @extend .self-start, .sticky, .bg-#{$sidebarBgColor}, .#{$sidebarTextColor};
 }
