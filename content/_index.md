@@ -1,6 +1,9 @@
 ---
 title: Michael McCarthy
-description: Sit down, relax, and get to know me.
+description: |
+  Sit down, relax, and get to know me.
+  
+  Please note, I'm still building this site so some things may not be functional yet.
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
