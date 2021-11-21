@@ -4,3 +4,5 @@
 .Ruserdata
 
 *.pptx
+
+.hugo_build.lock
