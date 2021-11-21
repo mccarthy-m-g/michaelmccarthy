@@ -19,7 +19,6 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/EllaKaye/distilltools
-layout: single
 ---
 
 The **distilltools** package is collection of tools to support the creation and styling of content on websites created using the distill package in R. You can see my contributions to the distilltools package on [GitHub](https://github.com/EllaKaye/distilltools/commits?author=mccarthy-m-g).

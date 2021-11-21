@@ -10,5 +10,4 @@ links:
   icon_pack: fab
   name: repo
   url: https://github.com/tidytales/an-introduction-to-statistical-learning
-layout: single
 ---

@@ -21,6 +21,8 @@ cascade:
   show_post_time: false
   categories:
   - self study
+  featured: false
+  layout: single
   
 layout: list
 ---

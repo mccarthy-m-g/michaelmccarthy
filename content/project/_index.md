@@ -12,6 +12,7 @@ cascade:
   show_author_byline: true
   show_post_date: true
   show_comments: false # see site config to choose Disqus or Utterances
+  layout: single
   
 layout: list-grid
 ---

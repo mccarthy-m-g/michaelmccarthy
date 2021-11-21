@@ -17,7 +17,6 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/mccarthy-m-g/psyc-615-lab
-layout: single
 ---
 
 The PSYC 615 lab covers applications of the general linear model to research design and analysis. This repository contains lab materials for students using R.
