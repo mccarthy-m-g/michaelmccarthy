@@ -1,4 +1,6 @@
 ---
+title: "Consulting"
+
 # for sidebar layout
 sidebar:
   title: "Consulting"
