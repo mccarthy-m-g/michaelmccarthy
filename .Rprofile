@@ -25,8 +25,10 @@ if (interactive()) {
       "- https://github.com/hugo-apero/hugo-apero-docs \n\n",
       "Example site:\n",
       "- https://hugo-apero.netlify.app \n\n",
-      "Documentation site:\n",
-      "- https://hugo-apero-docs.netlify.app"
+      "Theme Documentation site:\n",
+      "- https://hugo-apero-docs.netlify.app \n\n",
+      "Hugo Documentation:\n",
+      "- https://gohugo.io/documentation/"
     )
   }
 }
