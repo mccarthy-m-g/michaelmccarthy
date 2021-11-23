@@ -25,7 +25,7 @@ sidebar:
   text_link_url: /contact/
   author: 
   
-weight: 3
+weight: 4
 layout: single-series-cv
 ---
 
