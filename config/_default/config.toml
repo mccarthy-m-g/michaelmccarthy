@@ -138,10 +138,15 @@ enableEmoji = true
     title = "Self Study"
     url = "/self-study/"
     weight = 5
+  # [[menu.header]]
+  #   name = "Experience"
+  #   title = "Experience"
+  #   url = "/experience/"
+  #   weight = 6
   [[menu.header]]
-    name = "Experience"
-    title = "Experience"
-    url = "/experience/"
+    name = "Consulting"
+    title = "Consulting"
+    url = "/consulting/"
     weight = 6
 
   # Configure footer

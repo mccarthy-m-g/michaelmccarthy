@@ -1,0 +1,32 @@
+{{ define "main" }}
+{{ $page := . }}
+<main class="page-main ph4 pt4" role="main">
+  <section class="page-content mw7 center">
+    <article class="post-content pa0 pr3-l">
+      <header class="post-header">
+        {{ partial "shared/breadcrumb.html" . }}
+        <div class="flex justify-between">
+          <p class="f6 measure lh-copy b">{{ if .Params.author }}{{ .Params.author }}{{ end }}</p>
+          <p class="f6 measure lh-copy">{{ if .Params.last_revised }}{{ .Params.last_revised }}{{ end }}</p>
+        </div>
+        {{ if .Params.show_social_links }}
+          <p class="measure-narrow mv0 lh-copy">
+            {{ partial "shared/social-links.html" . }}
+          </p>
+        {{ end }}
+      </header>
+      <section class="post-body pt0 pb4">
+        {{ .Content }}
+      </section>
+      <footer class="post-footer">
+        {{ partial "shared/post-pagination.html" . }}
+      </footer>
+    </article>
+  </section>
+</main>
+
+<aside class="page-sidebar" role="complementary">
+  {{ partial "shared/section-sidebar-scaffold.html" . }}
+</aside>
+
+{{ end }}

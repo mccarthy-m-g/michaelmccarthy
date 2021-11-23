@@ -7,15 +7,15 @@ show_social_links: true # specify social accounts in site config
 link_list_label: Areas of expertise # bookmarks, elsewhere, etc.
 link_list:
 - name: R and R Shiny Development
-  url:
+  url: "/consulting/expertise/#r-and-r-shiny-development"
 - name: Statistical Methods and Modelling
-  url:
+  url: "/consulting/expertise/#statistical-methods-and-modelling"
 - name: Connecting and Communicating with Stakeholders
-  url:
+  url: "/consulting/expertise/#connecting-and-communication-with-stakeholders"
 - name: Automation and Reproducibility
-  url:
+  url: "/consulting/expertise/#automation-and-reproducibility"
 - name: Storytelling with Data
-  url:
+  url: "/consulting/expertise/#storytelling-with-data"
 ---
 
 ** index doesn't contain a body, just front matter above.

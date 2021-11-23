@@ -13,3 +13,8 @@
 .aboutme-sidebar {
   @extend .self-start, .stickyme, .bg-#{$sidebarBgColor}, .#{$sidebarTextColor};
 }
+
+// For consulting collection
+.single-series-cv {
+  @extend .single-series
+}
