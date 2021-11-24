@@ -38,6 +38,115 @@ doesn't play nice with blogdown. I should use the htmltools package for my
 own functions.
 -->
 
+<!-- Experience -->
+<section class="bt mb4">
+  <header class="w-100">
+    <h5 class="f4 fw7 tracked ttu lh-title mv3">Experience</h5>
+  </header>
+  <!-- Item 1 -->
+  <div class="cf mv4">
+    <div class="fl w-100 w-third-ns">
+      <p class="mb0 mv2-ns">September 2020 – Present</p>
+    </div>
+    <div class="fl w-100 w-two-thirds-ns pl2-ns">
+      <p class="mv2 b">Data Scientist (Internship)</p>
+      <p class="di">CUPS Calgary</p>
+      <p class="di">&middot</p>
+      <p class="di">Calgary AB, Canada</p>
+      <!-- Bullet points -->
+      <ul class="cf pl3 mv2">
+        <li class="fl w-100 mv1">
+          Conducted an in-depth evaluation of the CUPS Integrated Care Tool to assess its utility for developing integrated care plans and tracking client change 
+        </li>
+        <li class="fl w-100 mv1">
+          Developed and deployed an interactive dashboard to facilitate exploratory data analysis of the CUPS Integrated Care Tool in partnership with internal stakeholders
+        </li>
+        <li class="fl w-100 mv1">
+          Presented the Board of Directors with data informed recommendations to improve the utility of the CUPS Integrated Care Tool for integrated care planning and tracking client change
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!-- Item 2 -->
+  <div class="cf mv4">
+    <div class="fl w-100 w-third-ns">
+      <p class="mb0 mv2-ns">September 2021 – December 2021</p>
+    </div>
+    <div class="fl w-100 w-two-thirds-ns pl2-ns">
+      <p class="mv2 b">Teaching Assistant (Univariate Data Analysis)</p>
+      <p class="di">University of Calgary</p>
+      <p class="di">&middot</p>
+      <p class="di">Calgary AB, Canada</p>
+      <!-- Bullet points -->
+      <ul class="cf pl3 mv2">
+        <li class="fl w-100 mv1">
+          Trained 21 graduate students in applications of the general linear model to research design and analysis, including t-tests, AN(C)OVAs, contrasts, and trend analysis
+        </li>
+        <li class="fl w-100 mv1">
+          Developed and delivered training materials teaching students how to do univariate data analysis, visualization, and communication in R
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!-- Item 3 -->
+  <div class="cf mv4">
+    <div class="fl w-100 w-third-ns">
+      <p class="mb0 mv2-ns">June 2020 – August 2020</p>
+    </div>
+    <div class="fl w-100 w-two-thirds-ns pl2-ns">
+      <p class="mv2 b">Research Assistant (Brain Dynamics Lab)</p>
+      <p class="di">University of Calgary</p>
+      <p class="di">&middot</p>
+      <p class="di">Calgary AB, Canada</p>
+      <!-- Bullet points -->
+      <ul class="cf pl3 mv2">
+        <li class="fl w-100 mv1">
+          Developed computerized vision science research software for the Brain Dynamics Lab
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!-- Item 4 -->
+  <div class="cf mv4">
+    <div class="fl w-100 w-third-ns">
+      <p class="mb0 mv2-ns">August 2012 – August 2020</p>
+    </div>
+    <div class="fl w-100 w-two-thirds-ns pl2-ns">
+      <p class="mv2 b">Guitar Teacher</p>
+      <p class="di">Self-employed</p>
+      <p class="di">&middot</p>
+      <p class="di">Langley BC, Canada</p>
+      <!-- Bullet points -->
+      <ul class="cf pl3 mv2">
+        <li class="fl w-100 mv1">
+          Developed and delivered training materials teaching students the fundamentals of music theory
+        </li>
+        <li class="fl w-100 mv1">
+          Created individualized lesson plans tailored to students' strengths and weaknesses
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!-- Item 5 -->
+  <div class="cf mv4">
+    <div class="fl w-100 w-third-ns">
+      <p class="mb0 mv2-ns">June 2019 – May 2020</p>
+    </div>
+    <div class="fl w-100 w-two-thirds-ns pl2-ns">
+      <p class="mv2 b">Lab Manager (Bias Investigation and Applied Science Lab)</p>
+      <p class="di">University of the Fraser Valley</p>
+      <p class="di">&middot</p>
+      <p class="di">Abbotsford BC, Canada</p>
+      <!-- Bullet points -->
+      <ul class="cf pl3 mv2">
+        <li class="fl w-100 mv1">
+          Oversaw administrative tasks needed for day to day functioning of the lab
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+
 <!-- Education -->
 <section class="bt mb4">
   <header class="w-100">
