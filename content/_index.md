@@ -4,8 +4,8 @@ description: |
   Sit down, relax, and get to know me.
   
   Please note, I'm still building this site so some things may not be functional yet.
-action_label: Read More &rarr;
-action_link: /about
+action_label: About Me &rarr;
+action_link: /about/
 action_type: text
 image_left: true
 images:
