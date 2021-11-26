@@ -8,9 +8,9 @@ number_categories: 5 # set to zero to exclude
 
 show_intro: true
 intro: |
-  I’m an award winning data scientist and R programmer passionate about solving real world problems with data. My background is in psychology research, where I’ve studied topics ranging from attitude formation, to decision-making, to individual differences in brain function. Studying how people think and act has given me a deep appreciation for the human elements of data science. Much of our data is about humans. All of our data is communicated to humans. Understanding these relationships has been key to successfully navigating my role as a data scientist.
+  I am an award winning data scientist and R programmer passionate about solving real world problems with data. My background is in psychology research, where I’ve studied topics ranging from attitude formation, to decision-making, to individual differences in brain function. Studying how people think and act has given me a deep appreciation for the human elements of data science. Much of our data is about humans. All of our data is communicated to humans. Understanding these relationships has been key to successfully navigating my role as a data scientist.
 
-  I offer several [consulting services](/consulting/) if you are interested in working with me, including long and short term contract work, private training, and drop-in consulting. I value building new connections and would love to [discuss](/contact/) opportunities to work with you. Let's get to know each other.
+  If you have a problem that you want to use data science to answer, I would love to help you. I offer several [consulting services](/consulting/) to help you accomplish your goals at any point in your project lifecycle, including long and short term consulting work, private training, and drop-in consulting. I value building new connections and would love to [discuss](/contact/) opportunities to work with you. Let's get to know each other.
 
   When I’m not working you can find me writing music in my studio, riding my bike on the local trails, or spending time with my friends and family.
 
