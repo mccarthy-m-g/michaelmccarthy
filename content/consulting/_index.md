@@ -8,11 +8,11 @@ sidebar:
   author: 
   description: |
     If you have a problem that you want to use data science to answer, I would
-    love to help you. I offer several consulting services to help you accomplish
-    your goals at any point in your project lifecycle, including long and short
-    term consulting work, private training, and drop-in consulting. I value
-    building new connections and would love to discuss opportunities to work
-    with you. Let's get to know each other.
+    love to help you. I offer several consulting services to help you solve the
+    problems you care about at any point in your project lifecycle, including
+    long and short term consulting work, private training, and drop-in 
+    consulting. I value building new connections and would love to discuss
+    opportunities to work with you. Let's get to know each other.
   text_link_label: contact
   text_link_url: /contact/
 

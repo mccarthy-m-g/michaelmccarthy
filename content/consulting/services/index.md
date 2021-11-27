@@ -27,7 +27,7 @@ This recipe allows us to approach your problem with intent---once we know what t
 
 ## How I can Help
 
-TODO: Complete section
+I offer several consulting services to help you solve the problems you care about at any point in your project lifecycle.
 
 ### Contract Work
 
