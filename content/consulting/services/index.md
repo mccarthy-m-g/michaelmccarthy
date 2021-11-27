@@ -37,7 +37,7 @@ I can help you make data more accessible and usable for solving problems you car
 
 ### Your Data Story
 
-Your data story describes how you build and share knowledge from data. A good data story helps you and your audience understand and trust the implications of data, and develops data informed solutions for the problems you care about.
+Your data story describes how you build and share knowledge from data. A good data story helps you and your audience understand and trust the implications of data, then develops data informed solutions for the problems you care about.
 
 I can help you develop data informed solutions for the problems you care about through:
 
