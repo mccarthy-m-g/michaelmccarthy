@@ -20,7 +20,31 @@ weight: 1
 
 When we want to use data to solve a problem you care about, our first step is to define your problem. Our second step is to determine the people affected by your problem, and what a meaningful solution looks like to them. Only then do we think about how data science can help.
 
-This recipe allows us to approach your problem with intent---once we know what the problem you care about is and what a meaningful solution looks like to the people affected by it, we can work backward to figure out the data, analyses, and tools needed to solve your problem. By framing your data problem this way, we can use data science to develop a solution that matters to you and your audience.
+This recipe allows us to approach your problem with intent---once we know what the problem you care about is and what a meaningful solution looks like to the people affected by it, we can work backward to figure out the data, analyses, and tools needed to solve your problem. By framing your problem this way we can use data science to develop better solutions for you and your audience.
+
+## Working with Intent
+
+### Your Data Strategy
+
+Your data strategy describes all of the ways you get, store, manage, share, and use data. A good data strategy makes data accessible and usable to the people who need it.
+
+I can help you make data more accessible and usable for solving problems you care about by:
+
+- Identifying data sources
+- Identifying data problems
+- Teaching data literacy
+- Cleaning and transforming data
+
+### Your Data Story
+
+Your data story describes how you build and share knowledge from data. A good data story helps you and your audience understand and trust the implications of data, and develops data informed solutions for the problems you care about.
+
+I can help you develop data informed solutions for the problems you care about through:
+
+- Exploratory data analysis
+- Statistical modelling
+- R package development
+- R Shiny development
 
 ## How I can Help
 
