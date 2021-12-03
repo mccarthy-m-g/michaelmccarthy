@@ -48,16 +48,32 @@ I can help you develop data informed solutions for the problems you care about t
 
 ## How I can Help
 
-I offer several consulting services to help you solve the problems you care about at any point in your project lifecycle.
+I am available for consulting work and private training to help you solve the problems you care about at any point in your project lifecycle.
 
-### Contract Work
+### Consulting Work
 
-TODO: Complete section
+#### Focus
+
+Developing or evaluating your data strategy and data story.
+
+#### Scope
+
+Short or long term.
+
+#### Rates
+
+Negotiable by project and typically billed hourly.
 
 ### Private Training
 
-TODO: Complete section
+#### Focus
 
-### Drop-in Consulting
+Developing you or your team's data science and R programming skills.
 
-TODO: Complete section
+#### Scope
+
+Single or series of workshops or meetings.
+
+#### Rates
+
+Negotiable by training and typically billed per-session for smaller scope or hourly for larger scope.
