@@ -6,3 +6,4 @@
 *.pptx
 
 .hugo_build.lock
+resources
