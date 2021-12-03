@@ -12,8 +12,8 @@ sidebar:
   text_link_label: contact
   text_link_url: /contact/
   
-layout: single-series-cv
-weight: 2
+layout: single-series
+weight: 3
 ---
 
 ## R and R Shiny Development
@@ -24,7 +24,7 @@ TODO: Complete section
 
 TODO: Complete section
 
-## Connecting and Communication with Stakeholders
+## Connecting and Communicating with Stakeholders
 
 TODO: Complete section
 

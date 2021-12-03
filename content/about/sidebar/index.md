@@ -11,7 +11,7 @@ link_list:
 - name: Statistical Methods and Modelling
   url: "/consulting/expertise/#statistical-methods-and-modelling"
 - name: Connecting and Communicating with Stakeholders
-  url: "/consulting/expertise/#connecting-and-communication-with-stakeholders"
+  url: "/consulting/expertise/#connecting-and-communicating-with-stakeholders"
 - name: Automation and Reproducibility
   url: "/consulting/expertise/#automation-and-reproducibility"
 - name: Storytelling with Data

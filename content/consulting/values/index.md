@@ -12,7 +12,7 @@ sidebar:
   text_link_label: contact
   text_link_url: /contact/
   
-layout: single-series-cv
+layout: single-series
 weight: 2
 ---
 
