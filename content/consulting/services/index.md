@@ -55,6 +55,8 @@ I make data ethics a priority when helping you with your data strategy and data 
 <!--
 https://www.gov.uk/government/publications/data-ethics-framework
 
+https://www150.statcan.gc.ca/n1/pub/89-20-0006/892000062021001-eng.htm
+
 https://www.turing.ac.uk/research/publications/understanding-artificial-intelligence-ethics-and-safety
 -->
 
