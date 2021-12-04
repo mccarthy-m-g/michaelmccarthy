@@ -1,12 +1,14 @@
 ---
+draft: true
 title: "Values"
 excerpt: |
-  My values as a data scientist. 
+  When we use data science to solve a problem you care about, we have a responsibility to develop solutions that safeguard and promote the wellbeing of your audience. My framework for responsible data science helps you use data science responsibly and ethically.
 
 sidebar: 
-  title: The Things I Care About
+  title: Doing Data Science Responsibly
   description: |
-    My values as a data scientist.
+    When we use data science to solve a problem you care about, we have a
+    responsibility to the people affected by your problem to develop solutions that are fair, transparent, . 
   text_series_label: "Outline" 
   text_contents_label: "On this page"
   text_link_label: contact
@@ -15,6 +17,19 @@ sidebar:
 layout: single-series
 weight: 2
 ---
+
+## Responsible Data Science
+
+When we use data science to solve a problem you care about, we have a responsibility to develop solutions that safeguard and promote the wellbeing of your audience. My framework for responsible data science helps you use data science responsibly and ethically.
+
+
+
+
+
+  When we use data science to solve a problem you care about, we have a responsibility to you, your audience, and the people your data comes from to do good.
+
+When we use data science to solve a problem you care about, we have a responsibility to the people affected by your problem to use their data for good and protect them from unintended consequences.
+
 
 ## Making an Impact
 

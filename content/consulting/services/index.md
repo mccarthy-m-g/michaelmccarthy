@@ -37,7 +37,7 @@ I can help you make data more accessible and usable for solving problems you car
 
 ### Your Data Story
 
-Your data story describes how you build and share knowledge from data. A good data story helps you and your audience understand and trust the implications of data, then develops data informed solutions for the problems you care about.
+Your data story describes how you build and share knowledge from data. A good data story helps you and your audience understand and trust the implications of your data, then develops data informed solutions for the problems you care about.
 
 I can help you develop data informed solutions for the problems you care about through:
 
@@ -45,6 +45,18 @@ I can help you develop data informed solutions for the problems you care about t
 - Statistical modelling
 - R package development
 - R Shiny development
+
+### Your Data Ethics
+
+Your data ethics framework describes the values and principles you follow to use data responsibly. A good data ethics framework considers the social and ethical implications of using data at every stage of your project, and develops solutions that safeguard and promote the wellbeing of your audience.
+
+I make data ethics a priority when helping you with your data strategy and data story so you can use data for good.
+
+<!--
+https://www.gov.uk/government/publications/data-ethics-framework
+
+https://www.turing.ac.uk/research/publications/understanding-artificial-intelligence-ethics-and-safety
+-->
 
 ## How I can Help
 
