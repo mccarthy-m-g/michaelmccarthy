@@ -20,7 +20,7 @@ cascade:
   show_post_date: false
   show_post_time: false
   categories:
-  - self study
+  - books
   featured: false
   layout: single
   
