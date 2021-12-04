@@ -7,7 +7,7 @@ categories:
 tags:
 - research
 links:
-- icon: file-pdf
+- icon: image
   icon_pack: fas
   name: Poster
   url: mccarthy-hughes-nowcam-2019b.pdf

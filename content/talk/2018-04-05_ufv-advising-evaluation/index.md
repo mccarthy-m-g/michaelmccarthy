@@ -7,13 +7,13 @@ categories:
 tags:
 - research
 links:
-- icon: file-pdf
+- icon: image
   icon_pack: fas
-  name: Poster
+  name: poster
   url: mccarthy-ufv-student-research-day-2018.pdf
-- icon: file-pdf
+- icon: file-alt
   icon_pack: fas
-  name: Literature Review
+  name: report
   url: mccarthy-canadian-advising-review-2018.pdf
 date: "2018-04-05T12:30:00Z"
 date_end: "2018-04-05T14:30:00Z"

@@ -10,7 +10,7 @@ tags:
 links:
 - icon: images
   icon_pack: fas
-  name: poster
+  name: slides
   url: 
 date: "2018-05-18T14:45:00Z"
 date_end: "2018-05-18T15:00:00Z"

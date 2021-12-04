@@ -9,7 +9,7 @@ categories:
 tags:
 - research
 links:
-- icon: images
+- icon: image
   icon_pack: fas
   name: poster
   url: 
