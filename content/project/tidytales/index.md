@@ -8,7 +8,7 @@ excerpt: |
   typical data science project. Namely, wrangling, visualizing, modelling, and
   communicating data, all with the assistance of programming.
 categories:
-- data science
+- websites
 tags:
 - R
 links:
