@@ -4,7 +4,7 @@ excerpt: |
   I am an experienced data scientist and R programmer. 
 
 sidebar: 
-  title: Data Science that Works
+  title: Making Data Science Happen
   description: |
     I am an experienced data scientist and R programmer.
   text_series_label: "Outline" 
@@ -16,23 +16,43 @@ layout: single-series
 weight: 3
 ---
 
-## R and R Shiny Development
+## Ingredients for Data Science
+
+We can develop meaningful solutions for the problems you care about by using data science to turn data into knowledge, insight, and understanding. A typical data science project involves a variety of technical and interpersonal skills and looks something like this:
+
+1. Define your problem and the people affected by it
+2. Determine potential meaningful solutions to your problem
+3. Identify data sources and gather your data 
+4. Tidy and prepare your data
+5. Explore and analyze your data
+6. Communicate your data story to decision makers and stakeholders
+
+Surrounding each of these processes are technical skills such as programming and statistics, and interpersonal skills such as relationship building and storytelling.
+
+## How I Can Help
+
+I have expertise in the following areas to help you solve the problems you care about at any point in your project lifecycle.
+
+### R and R Shiny Development
+
+I am an experienced R programmer comfortable using my expertise for:
+
+- Developing [R packages](/categories/r-packages/)
+- Building Shiny applications
+
+### Statistical Methods and Modelling
 
 TODO: Complete section
 
-## Statistical Methods and Modelling
+### Connecting and Communicating with Stakeholders
 
 TODO: Complete section
 
-## Connecting and Communicating with Stakeholders
+### Automation and Reproducibility
 
 TODO: Complete section
 
-## Automation and Reproducibility
-
-TODO: Complete section
-
-## Storytelling with Data
+### Storytelling with Data
 
 TODO: Complete section
 

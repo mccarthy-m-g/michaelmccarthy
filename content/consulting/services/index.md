@@ -42,6 +42,7 @@ Your data story describes how you build and share knowledge from data. A good da
 I can help you develop data informed solutions for the problems you care about through:
 
 - Exploratory data analysis
+- Data visualization
 - Statistical modelling
 - R package development
 - R Shiny development
