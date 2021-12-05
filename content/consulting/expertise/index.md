@@ -1,12 +1,15 @@
 ---
 title: "Expertise"
 excerpt: |
-  I am an experienced data scientist and R programmer. 
+  We can develop meaningful solutions for the problems you care about by using data science to turn data into knowledge, insight, and understanding. I have expertise in the technical and interpersonal skills needed to make your project a success at any stage of the data science lifecycle.
 
 sidebar: 
   title: Making Data Science Happen
   description: |
-    I am an experienced data scientist and R programmer.
+    We can develop meaningful solutions for the problems you care about by using
+    data science to turn data into knowledge, insight, and understanding. I have
+    expertise in the technical and interpersonal skills needed to make your 
+    project a success at any stage of the data science lifecycle.
   text_series_label: "Outline" 
   text_contents_label: "On this page"
   text_link_label: contact
@@ -31,7 +34,7 @@ Surrounding each of these processes are technical skills such as programming and
 
 ## How I Can Help
 
-I have expertise in the following areas to help you solve the problems you care about at any point in your project lifecycle.
+I have expertise in the technical and interpersonal skills needed to make your project a success at any stage of the data science lifecycle.
 
 ### R and R Shiny Development
 
