@@ -19,8 +19,6 @@ cascade:
   show_comments: false
   show_post_date: false
   show_post_time: false
-  categories:
-  - books
   featured: false
   layout: single
   

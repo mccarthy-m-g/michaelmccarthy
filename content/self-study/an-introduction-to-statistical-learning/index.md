@@ -1,6 +1,8 @@
 ---
 title: "Self Study: An Introduction to Statistical Learning"
 excerpt: By Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
+categories:
+  - books
 tags:
 - statistics
 - data science
