@@ -59,9 +59,6 @@ I am an experienced R programmer comfortable using my expertise for:
 
 ### Connecting and Communicating with Stakeholders
 
-TODO: Complete section
+When we use data science to solve a problem you care about, we have a responsibility to you, your audience, and the people your data comes from to develop solutions that are meaningful to them. Connecting and communicating with stakeholders at all stages of the data science lifecycle plays a central role in achieving this.
 
-### Storytelling with Data
-
-TODO: Complete section
-
+My background in psychology research and communications has given me the experience and perspective to successfully navigate these relationships.
