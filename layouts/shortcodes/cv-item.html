@@ -1,0 +1,15 @@
+<div class="cf mv4">
+    <div class="fl w-100 w-third-ns">
+      <p class="mb0 mv2-ns">{{ .Get "when" }}</p>
+    </div>
+    <div class="fl w-100 w-two-thirds-ns pl2-ns">
+      <p class="mv2 b">{{ .Get "what" }}</p>
+      <p class="di">{{ .Get "with" }}</p>
+      <p class="di">&middot</p>
+      <p class="di">{{ .Get "where" }}</p>
+      <!-- Bullet points -->
+      <ul class="cf pl3 mv2">
+        {{ .Inner }}
+      </ul>
+    </div>
+  </div>

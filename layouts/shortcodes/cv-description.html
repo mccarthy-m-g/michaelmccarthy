@@ -1,0 +1,10 @@
+{{ if and (.Get 0 ) (.Get 1) }}
+  <li class="fl w-100 mv1">
+    <p class="fl w-100 w-30-ns mv0">{{ .Get 0 }}:</p>
+    <p class="fl w-100 w-70-ns mv0">{{ .Get 1 }}</p>
+  </li>
+{{ else }}
+  <li class="fl w-100 mv1">
+    {{ .Get 0 }}
+  </li>
+{{ end }}

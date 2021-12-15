@@ -30,6 +30,17 @@ layout: single-series-cv
 ---
 
 <!--
+{{< cv-section Experience >}}
+  {{< cv-item
+    when="September 2020 – now"
+    what="Cool guys" 
+    with="You knows" 
+    where="the moon" >}}
+    {{< cv-description "Did something cool" >}}
+    {{< cv-description "what" "Did something cool" >}}
+  {{< /cv-item >}}
+{{< /cv-section >}}
+
 TODO: Decide on the layout for CV items using Tachyons CSS. Once this is
 decided then I can create R functions that take a data frame of CV items
 as input, and output the correct HTML/CSS code for each item upon knitting.
