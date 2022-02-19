@@ -12,7 +12,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: ../2021-01-29_reproducible-science.pdf
+  url: talk/2021-01-29_reproducible-science/2021-01-29_slides_reproducible-science.pdf
 date: "2021-01-29T16:00:00Z"
 date_end: "2021-01-29T17:30:00Z"
 location: University of Calgary

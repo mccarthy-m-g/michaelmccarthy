@@ -12,7 +12,7 @@ links:
 - icon: image
   icon_pack: fas
   name: poster
-  url: 
+  url: talk/2018-05-18_narrative-confirmation-bias/2018-05-18_poster_narrative-confirmation-bias.pdf
 date: "2018-05-18T13:30:00Z"
 date_end: "2018-05-18T14:30:00Z"
 location: Kwantlen Polytechnic University

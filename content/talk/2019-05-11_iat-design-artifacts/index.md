@@ -13,7 +13,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: 
+  url: talk/2019-05-11_iat-design-artifacts/2019-05-11_slides_iat-design-artifacts.pdf
 date: "2019-05-11T11:05:00Z"
 date_end: "2019-05-11T11:20:00Z"
 location: University of Victoria

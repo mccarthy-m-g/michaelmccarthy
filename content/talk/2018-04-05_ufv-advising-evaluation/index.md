@@ -10,11 +10,11 @@ links:
 - icon: image
   icon_pack: fas
   name: poster
-  url: mccarthy-ufv-student-research-day-2018.pdf
+  url: talk/2018-04-05_ufv-advising-evaluation/2018-04-05_poster_student-research-day.pdf
 - icon: file-alt
   icon_pack: fas
   name: report
-  url: mccarthy-canadian-advising-review-2018.pdf
+  url: talk/2018-04-05_ufv-advising-evaluation/2018-04-05_paper_canadian-advising-review.pdf
 date: "2018-04-05T12:30:00Z"
 date_end: "2018-04-05T14:30:00Z"
 location: University of the Fraser Valley

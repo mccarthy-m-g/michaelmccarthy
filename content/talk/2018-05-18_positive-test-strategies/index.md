@@ -11,7 +11,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: 
+  url: talk/2018-05-18_positive-test-strategies/2018-05-18_slides_positive-test-strategies.pdf
 date: "2018-05-18T14:45:00Z"
 date_end: "2018-05-18T15:00:00Z"
 location: Kwantlen Polytechnic University

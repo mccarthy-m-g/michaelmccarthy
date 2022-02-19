@@ -10,7 +10,7 @@ links:
 - icon: image
   icon_pack: fas
   name: Poster
-  url: mccarthy-hughes-nowcam-2019b.pdf
+  url: talk/2019-05-11_iat-priming-replication/2019-05-11_poster_iat-priming-replication.pdf
 date: "2019-05-11T12:45:00Z"
 date_end: "2019-05-11T14:15:00Z"
 location: University of Victoria
