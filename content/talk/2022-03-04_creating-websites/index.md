@@ -15,6 +15,7 @@ links:
   url: https://github.com/mccarthy-m-g/osssg-website-workshop
 date: "2022-03-04T16:00:00Z"
 date_end: "2022-03-04T18:00:00Z"
+publishDate: "2022-02-19T12:00:00Z"
 location: University of Calgary
 event: Open Science Student Support Group
 ---
