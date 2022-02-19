@@ -48,7 +48,7 @@ To prepare for this workshop, please do the following.
 
 ## During the workshop
 
-We will be exploring three R packages---[postcards](https://github.com/seankross/postcards), [distill](), and [blogdown]()---that can be used to build a website. To install these packages, run the following in the R console.
+We will be exploring three R packages---[postcards](https://github.com/seankross/postcards), [distill](https://rstudio.github.io/distill/), and [blogdown](https://pkgs.rstudio.com/blogdown/)---that can be used to build a website. To install these packages, run the following in the R console.
 
 ```r
 install.packages(c("postcards", "distill", "blogdown"))
