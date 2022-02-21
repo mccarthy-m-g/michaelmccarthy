@@ -18,3 +18,7 @@
 .single-series-cv {
   @extend .single-series
 }
+
+// fontawesome icons not included with Hugo Apero
+$fa-var-signs-post: \f277;
+.#{$fa-css-prefix}-signs-post:before { content: fa-content($fa-var-signs-post); }

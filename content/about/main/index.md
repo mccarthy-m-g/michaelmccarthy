@@ -16,7 +16,7 @@ intro: |
 
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Enjoy your stay!
+  <a href="."><i class="fas fa-signs-post pr2"></i></a>
 ---
 
 ** index doesn't contain a body, just front matter above.
