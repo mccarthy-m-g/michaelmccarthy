@@ -25,10 +25,13 @@ if (interactive()) {
       "- https://github.com/hugo-apero/hugo-apero-docs \n\n",
       "Example site:\n",
       "- https://hugo-apero.netlify.app \n\n",
-      "Theme Documentation site:\n",
+      "Theme documentation site:\n",
       "- https://hugo-apero-docs.netlify.app \n\n",
       "Hugo Documentation:\n",
-      "- https://gohugo.io/documentation/"
+      "- https://gohugo.io/documentation/ \n\n",
+      "Colour tools:\n",
+      "http://colormind.io \n",
+      "https://www.hexcolortool.com"
     )
   }
 }
