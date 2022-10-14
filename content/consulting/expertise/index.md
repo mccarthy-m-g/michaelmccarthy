@@ -40,20 +40,18 @@ I am also experienced training others in these areas if you want to level up you
 
 ### Statistical Methods and Modelling
 
-I am an experienced data scientist comfortable applying a variety of statistical methods to turn data into prediction or inference. 
+I am an experienced data scientist comfortable applying a variety of statistical methods and models to turn data into prediction or inference. 
 
 <!-- Some things I've worked on lately include
 - Scale or survey development and evaluation
 -->
 
-I am currently studying machine learning approaches to complement my statistical training. The emphasis is on *approach* here, as I already have experience with a variety of statistical methods that might be considered machine learning.
-
 ### R and R Shiny Development
 
 I am an experienced R programmer comfortable using my expertise for:
 
-- Engineering automatable data preparation pipelines
-- Creating reproducible data reports
+- Data engineering
+- Creating automated, reproducible data pipelines and reports
 - Building Shiny applications (interactive data applications; dashboards)
 - Developing [R packages](/categories/r-packages/)
 
