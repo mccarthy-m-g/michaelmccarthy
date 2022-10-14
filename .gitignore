@@ -4,6 +4,7 @@
 .Ruserdata
 
 *.pptx
+*.pages
 
 .hugo_build.lock
 resources
