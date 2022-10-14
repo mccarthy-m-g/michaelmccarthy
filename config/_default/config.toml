@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://michaelmccarthy.tidytales.ca/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Michael McCarthy"
@@ -11,7 +11,7 @@ footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
 paginate = 10
 preserveTaxonomyNames = true
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$", "\\.pptx$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$", "\\.pptx$", "\\.pages$"]
 enableEmoji = true
 
 [markup]
