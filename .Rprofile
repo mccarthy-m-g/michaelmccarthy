@@ -30,8 +30,8 @@ if (interactive()) {
       "Hugo Documentation:\n",
       "- https://gohugo.io/documentation/ \n\n",
       "Colour tools:\n",
-      "http://colormind.io \n",
-      "https://www.hexcolortool.com"
+      "- http://colormind.io \n",
+      "- https://www.hexcolortool.com"
     )
   }
 }
