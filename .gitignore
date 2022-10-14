@@ -2,9 +2,12 @@
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
+Thumbs.db
 
 *.pptx
 *.pages
 
 .hugo_build.lock
-resources
+/public/
+/resources/
