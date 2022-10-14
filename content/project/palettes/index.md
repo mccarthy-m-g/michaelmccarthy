@@ -2,7 +2,7 @@
 title: palettes
 subtitle: Methods for working with colour palettes
 author: Michael McCarthy
-date: "2021-10-29"
+date: "2022-10-14"
 excerpt: |
   The goal of palettes is to provide methods for working with colour palettes,
   particularly for developers who want to make their own colour palette package.
