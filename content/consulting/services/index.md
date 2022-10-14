@@ -67,28 +67,71 @@ I am available for consulting work and private training to help you solve the pr
 
 ### Consulting Work
 
-#### Focus
-
-Developing or evaluating your data strategy and data story.
-
-#### Scope
-
-Short or long term.
-
-#### Rates
-
-Negotiable by project and typically billed hourly.
+<section class="mb4">
+  <!-- Focus -->
+  <div class="cf mv2">
+    <div class="fl w-100 w-10-ns">
+      <h5 class="mv0 mv0-ns">Focus:</h5>
+    </div>
+    <div class="fl w-100 w-90-ns pl2-ns">
+      <p class="mb4 mv0-ns">Developing or evaluating your data strategy and data story.</p>
+    </div>
+  </div>
+  <!-- Scope -->
+  <div class="cf mv2">
+    <div class="fl w-100 w-10-ns">
+      <h5 class="mv0 mv0-ns">Scope:</h5>
+    </div>
+    <div class="fl w-100 w-90-ns pl2-ns">
+      <p class="mb4 mv0-ns">Short or long term.</p>
+    </div>
+  </div>
+  <!-- Rates -->
+  <div class="cf mv2">
+    <div class="fl w-100 w-10-ns">
+      <h5 class="mv0 mv0-ns">Rates:</h5>
+    </div>
+    <div class="fl w-100 w-90-ns pl2-ns">
+      <p class="mb4 mv0-ns">Negotiable by project and typically billed hourly.</p>
+    </div>
+  </div>
+</section>
 
 ### Private Training
 
-#### Focus
-
-Developing you or your team's data science and R programming skills.
-
-#### Scope
-
-Single or series of workshops or meetings.
-
-#### Rates
-
-Negotiable by training and typically billed per-session for smaller scope or hourly for larger scope.
+<section class="mb4">
+  <!-- Focus -->
+  <div class="cf mv2">
+    <div class="fl w-100 w-10-ns">
+      <h5 class="mv0 mv0-ns">Focus:</h5>
+    </div>
+    <div class="fl w-100 w-90-ns pl2-ns">
+      <p class="mb4 mv0-ns">
+        Developing you or your team's data science and R programming skills.
+      </p>
+    </div>
+  </div>
+  <!-- Scope -->
+  <div class="cf mv2">
+    <div class="fl w-100 w-10-ns">
+      <h5 class="mv0 mv0-ns">Scope:</h5>
+    </div>
+    <div class="fl w-100 w-90-ns pl2-ns">
+      <p class="mb4 mv0-ns">
+        Single or series of workshops or meetings.
+      </p>
+    </div>
+  </div>
+  <!-- Rates -->
+  <div class="cf mv2">
+    <div class="fl w-100 w-10-ns">
+      <h5 class="mv0 mv0-ns">Rates:</h5>
+    </div>
+    <div class="fl w-100 w-90-ns pl2-ns">
+      <p class="mb4 mv0-ns">
+        Negotiable by training and typically billed per-session for smaller
+        scope or hourly for larger scope.
+      </p>
+    </div>
+  </div>
+</section>
