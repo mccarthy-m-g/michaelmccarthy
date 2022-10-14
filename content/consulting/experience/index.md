@@ -1,4 +1,6 @@
 ---
+# TODO: Finish this page then remove as a draft
+draft: true
 title: Experience
 author: Michael McCarthy
 excerpt: |
@@ -49,12 +51,66 @@ doesn't play nice with blogdown. I should use the htmltools package for my
 own functions.
 -->
 
+<section class="bt mb4">
+  <header class="w-100">
+    <h5 class="f4 fw7 tracked ttu lh-title mv3">Qualifaction Summary</h5>
+  </header>
+  <p>TODO</p>
+</section>
+
+<!-- Skills -->
+<section class="bt mb4">
+  <header class="w-100">
+    <h5 class="f4 fw7 tracked ttu lh-title mv3">Skills</h5>
+  </header>
+  <!-- Item 1 -->
+  <div class="cf mv4">
+    <div class="fl w-100 w-third-ns">
+      <p class="mb0 mv2-ns">September 2017 – Present</p>
+    </div>
+    <div class="fl w-100 w-two-thirds-ns pl2-ns">
+      <p class="mv2 b">R</p>
+      <!-- Bullet points -->
+      <ul class="cf pl3 mv2">
+        <li class="fl w-100 mv1">
+          Data engineering
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+
 <!-- Experience -->
 <section class="bt mb4">
   <header class="w-100">
     <h5 class="f4 fw7 tracked ttu lh-title mv3">Experience</h5>
   </header>
   <!-- Item 1 -->
+  <div class="cf mv4">
+    <div class="fl w-100 w-third-ns">
+      <p class="mb0 mv2-ns">September 2021 – April 2022</p>
+    </div>
+    <div class="fl w-100 w-two-thirds-ns pl2-ns">
+      <p class="mv2 b">Statistics Teaching Assistant</p>
+      <p class="di">University of Calgary</p>
+      <p class="di">&middot</p>
+      <p class="di">Calgary AB, Canada</p>
+      <!-- Bullet points -->
+      <ul class="cf pl3 mv2">
+        <li class="fl w-100 mv1">
+          Trained 25 graduate students to wrangle, visualize, model, and
+          communicate results of univariate (general and generalized linear
+          models, linear mixed effects models, linear and polynomial contrasts)
+          and multivariate (MANOVA, DFA, EFA, CFA, SEM) data analyses
+        </li>
+        <li class="fl w-100 mv1">
+          Developed and delivered training materials teaching students how to
+          complete their data analysis pipeline in R and R Markdown
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!-- Item 2 -->
   <div class="cf mv4">
     <div class="fl w-100 w-third-ns">
       <p class="mb0 mv2-ns">September 2020 – Present</p>
@@ -78,80 +134,20 @@ own functions.
       </ul>
     </div>
   </div>
-  <!-- Item 2 -->
-  <div class="cf mv4">
-    <div class="fl w-100 w-third-ns">
-      <p class="mb0 mv2-ns">September 2021 – December 2021</p>
-    </div>
-    <div class="fl w-100 w-two-thirds-ns pl2-ns">
-      <p class="mv2 b">Teaching Assistant (Univariate Data Analysis)</p>
-      <p class="di">University of Calgary</p>
-      <p class="di">&middot</p>
-      <p class="di">Calgary AB, Canada</p>
-      <!-- Bullet points -->
-      <ul class="cf pl3 mv2">
-        <li class="fl w-100 mv1">
-          Trained 21 graduate students in applications of the general linear model to research design and analysis, including t-tests, AN(C)OVAs, contrasts, and trend analysis
-        </li>
-        <li class="fl w-100 mv1">
-          Developed and delivered training materials teaching students how to do univariate data analysis, visualization, and communication in R
-        </li>
-      </ul>
-    </div>
-  </div>
   <!-- Item 3 -->
   <div class="cf mv4">
     <div class="fl w-100 w-third-ns">
       <p class="mb0 mv2-ns">June 2020 – August 2020</p>
     </div>
     <div class="fl w-100 w-two-thirds-ns pl2-ns">
-      <p class="mv2 b">Research Assistant (Brain Dynamics Lab)</p>
-      <p class="di">University of Calgary</p>
+      <p class="mv2 b">Research Software Engineer</p>
+      <p class="di">Brain Dynamics Lab, University of Calgary</p>
       <p class="di">&middot</p>
       <p class="di">Calgary AB, Canada</p>
       <!-- Bullet points -->
       <ul class="cf pl3 mv2">
         <li class="fl w-100 mv1">
           Developed computerized vision science research software for the Brain Dynamics Lab
-        </li>
-      </ul>
-    </div>
-  </div>
-  <!-- Item 4 -->
-  <div class="cf mv4">
-    <div class="fl w-100 w-third-ns">
-      <p class="mb0 mv2-ns">August 2012 – August 2020</p>
-    </div>
-    <div class="fl w-100 w-two-thirds-ns pl2-ns">
-      <p class="mv2 b">Guitar Teacher</p>
-      <p class="di">Self-employed</p>
-      <p class="di">&middot</p>
-      <p class="di">Langley BC, Canada</p>
-      <!-- Bullet points -->
-      <ul class="cf pl3 mv2">
-        <li class="fl w-100 mv1">
-          Developed and delivered training materials teaching students the fundamentals of music theory
-        </li>
-        <li class="fl w-100 mv1">
-          Created individualized lesson plans tailored to students' strengths and weaknesses
-        </li>
-      </ul>
-    </div>
-  </div>
-  <!-- Item 5 -->
-  <div class="cf mv4">
-    <div class="fl w-100 w-third-ns">
-      <p class="mb0 mv2-ns">June 2019 – May 2020</p>
-    </div>
-    <div class="fl w-100 w-two-thirds-ns pl2-ns">
-      <p class="mv2 b">Lab Manager (Bias Investigation and Applied Science Lab)</p>
-      <p class="di">University of the Fraser Valley</p>
-      <p class="di">&middot</p>
-      <p class="di">Abbotsford BC, Canada</p>
-      <!-- Bullet points -->
-      <ul class="cf pl3 mv2">
-        <li class="fl w-100 mv1">
-          Oversaw administrative tasks needed for day to day functioning of the lab
         </li>
       </ul>
     </div>
@@ -173,32 +169,9 @@ own functions.
       <p class="di">University of Calgary</p>
       <p class="di">&middot</p>
       <p class="di">Calgary AB, Canada</p>
-      <!-- Bullet points -->
-      <ul class="cf pl3 mv2">
-        <li class="fl w-100 mv1">
-          <p class="fl w-100 w-30-ns mv0">Thesis title:</p>
-          <p class="fl w-100 w-70-ns mv0">Individual differences in EEG connectomes</p>
-        </li>
-        <li class="fl w-100 mv1">
-          <p class="fl w-100 w-30-ns mv0">Advisor:</p>
-          <p class="fl w-100 w-70-ns mv0">Dr. Andrea Protzner</p>
-        </li>
-      </ul>
     </div>
   </div>
   <!-- Item 2 -->
-  <div class="cf mv4">
-    <div class="fl w-100 w-third-ns">
-      <p class="mb0 mv2-ns">June 2019</p>
-    </div>
-    <div class="fl w-100 w-two-thirds-ns pl2-ns">
-      <p class="mv2 b">York CVR-VISTA Vision Science Summer School</p>
-      <p class="di">York University</p>
-      <p class="di">&middot</p>
-      <p class="di">Toronto ON, Canada</p>
-    </div>
-  </div>
-  <!-- Item 3 -->
   <div class="cf mv4">
     <div class="fl w-100 w-third-ns">
       <p class="mb0 mv2-ns">April 2019</p>
@@ -208,24 +181,9 @@ own functions.
       <p class="di">University of the Fraser Valley</p>
       <p class="di">&middot</p>
       <p class="di">Abbotsford BC, Canada</p>
-      <!-- Bullet points -->
-      <ul class="cf pl3 mv2">
-        <li class="fl w-100 mv1">
-          <p class="fl w-100 w-30-ns mv0">Thesis title:</p>
-          <p class="fl w-100 w-70-ns mv0">Valenced perceptual cues have no effect on Implicit Association Test performance</p>
-        </li>
-        <li class="fl w-100 mv1">
-          <p class="fl w-100 w-30-ns mv0">Advisor:</p>
-          <p class="fl w-100 w-70-ns mv0">Dr. Andrea Hughes</p>
-        </li>
-        <li class="fl w-100 mv1">
-          <p class="fl w-100 w-30-ns mv0">Honours:</p>
-          <p class="fl w-100 w-70-ns mv0">Graduated with distinction for maintaining a high academic standard; Dean's List member</p>
-        </li>
-      </ul>
     </div>
   </div>
-  <!-- Item 4 -->
+  <!-- Item 3 -->
   <div class="cf mv4">
     <div class="fl w-100 w-third-ns">
       <p class="mb0 mv2-ns">December 2015</p>
@@ -235,147 +193,6 @@ own functions.
       <p class="di">University of the Fraser Valley</p>
       <p class="di">&middot</p>
       <p class="di">Abbotsford BC, Canada</p>
-    </div>
-  </div>
-</section>
-
-<!-- Honours and Awards -->
-<section class="bt mb4">
-  <header class="w-100">
-    <h5 class="f4 fw7 tracked ttu lh-title mv3">Honours and Awards</h5>
-  </header>
-  <!-- Item 1 -->
-  <div class="cf mv4">
-    <div class="fl w-100 w-third-ns">
-      <p class="mb0 mv2-ns">May 2021</p>
-    </div>
-    <div class="fl w-100 w-two-thirds-ns pl2-ns">
-      <p class="mv2 b">Natural Sciences and Engineering Research Council Master's Scholarship</p>
-      <p class="di">Natural Sciences and Engineering Research Council of Canada</p>
-      <p class="di">&middot</p>
-      <p class="di">Canada</p>
-      <!-- Bullet points -->
-      <ul class="cf pl3 mv2">
-        <li class="fl w-100 mv1">
-          <p class="fl w-100 w-30-ns mv0">For:</p>
-          <p class="fl w-100 w-70-ns mv0">Demonstrating a high standard of achievement in undergraduate and early graduate studies, strong research potential, and excellent personal characteristics and interpersonal skills</p>
-        </li>
-        <li class="fl w-100 mv1">
-          <p class="fl w-100 w-30-ns mv0">Amount:</p>
-          <p class="fl w-100 w-70-ns mv0">$17,500</p>
-        </li>
-      </ul>
-    </div>
-  </div>
-  <!-- Item 2 -->
-  <div class="cf mv4">
-    <div class="fl w-100 w-third-ns">
-      <p class="mb0 mv2-ns">May 2021</p>
-    </div>
-    <div class="fl w-100 w-two-thirds-ns pl2-ns">
-      <p class="mv2 b">Faculty of Graduate Studies Master's Research Scholarship</p>
-      <p class="di">University of Calgary</p>
-      <p class="di">&middot</p>
-      <p class="di">Calgary AB, Canada</p>
-      <!-- Bullet points -->
-      <ul class="cf pl3 mv2">
-        <li class="fl w-100 mv1">
-          <p class="fl w-100 w-30-ns mv0">For:</p>
-          <p class="fl w-100 w-70-ns mv0">Demonstrating a high standard of achievement in undergraduate and early graduate studies, strong research potential, and excellent personal characteristics and interpersonal skills</p>
-        </li>
-        <li class="fl w-100 mv1">
-          <p class="fl w-100 w-30-ns mv0">Amount:</p>
-          <p class="fl w-100 w-70-ns mv0">$18,000</p>
-        </li>
-      </ul>
-    </div>
-  </div>
-  <!-- Item 3 -->
-  <div class="cf mv4">
-    <div class="fl w-100 w-third-ns">
-      <p class="mb0 mv2-ns">August 2020</p>
-    </div>
-    <div class="fl w-100 w-two-thirds-ns pl2-ns">
-      <p class="mv2 b">Alberta Graduate Excellence Scholarship</p>
-      <p class="di">Alberta Student Aid</p>
-      <p class="di">&middot</p>
-      <p class="di">Calgary AB, Canada</p>
-      <!-- Bullet points -->
-      <ul class="cf pl3 mv2">
-        <li class="fl w-100 mv1">
-          <p class="fl w-100 w-30-ns mv0">For:</p>
-          <p class="fl w-100 w-70-ns mv0">Demonstrating excellence in undergraduate studies and research</p>
-        </li>
-        <li class="fl w-100 mv1">
-          <p class="fl w-100 w-30-ns mv0">Amount:</p>
-          <p class="fl w-100 w-70-ns mv0">$11,000</p>
-        </li>
-      </ul>
-    </div>
-  </div>
-  <!-- Item 4 -->
-  <div class="cf mv4">
-    <div class="fl w-100 w-third-ns">
-      <p class="mb0 mv2-ns">August 2019</p>
-    </div>
-    <div class="fl w-100 w-two-thirds-ns pl2-ns">
-      <p class="mv2 b">Certificate of Academic Excellence</p>
-      <p class="di">Canadian Psychological Association</p>
-      <p class="di">&middot</p>
-      <p class="di">Canada</p>
-      <!-- Bullet points -->
-      <ul class="cf pl3 mv2">
-        <li class="fl w-100 mv1">
-          <p class="fl w-100 w-30-ns mv0">For:</p>
-          <p class="fl w-100 w-70-ns mv0">Demonstrating academic excellence in undergraduate studies</p>
-        </li>
-      </ul>
-    </div>
-  </div>
-  <!-- Item 5 -->
-  <div class="cf mv4">
-    <div class="fl w-100 w-third-ns">
-      <p class="mb0 mv2-ns">April 2018</p>
-    </div>
-    <div class="fl w-100 w-two-thirds-ns pl2-ns">
-      <p class="mv2 b">Dean of the College of Arts Award</p>
-      <p class="di">University of the Fraser Valley</p>
-      <p class="di">&middot</p>
-      <p class="di">Abbotsford BC, Canada</p>
-      <!-- Bullet points -->
-      <ul class="cf pl3 mv2">
-        <li class="fl w-100 mv1">
-          <p class="fl w-100 w-30-ns mv0">For:</p>
-          <p class="fl w-100 w-70-ns mv0">Best humanities poster submission to UFV Student Research Day 2018</p>
-        </li>
-        <li class="fl w-100 mv1">
-          <p class="fl w-100 w-30-ns mv0">Amount:</p>
-          <p class="fl w-100 w-70-ns mv0">$100</p>
-        </li>
-      </ul>
-    </div>
-  </div>
-  <!-- Item 6 -->
-  <div class="cf mv4">
-    <div class="fl w-100 w-third-ns">
-      <p class="mb0 mv2-ns">April 2018</p>
-    </div>
-    <div class="fl w-100 w-two-thirds-ns pl2-ns">
-      <p class="mv2 b">Undergraduate Research Excellence Award</p>
-      <p class="di">University of the Fraser Valley</p>
-      <p class="di">&middot</p>
-      <p class="di">Abbotsford BC, Canada</p>
-      <!-- Bullet points -->
-      <ul class="cf pl3 mv2">
-        <li class="fl w-100 mv1">
-          <p class="fl w-100 w-30-ns mv0">For:</p>
-          <p class="fl w-100 w-70-ns mv0">Outstanding work on the Pan-Canadian Advising Research Project and a program review of the University of the Fraser Valley's student advising centre</p>
-        </li>
-        <li class="fl w-100 mv1">
-          <p class="fl w-100 w-30-ns mv0">Amount:</p>
-          <p class="fl w-100 w-70-ns mv0">$1,100</p>
-        </li>
-      </ul>
     </div>
   </div>
 </section>
