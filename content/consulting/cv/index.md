@@ -100,7 +100,7 @@ own functions.
   <!-- Item 3 -->
   <div class="cf mv4">
     <div class="fl w-100 w-third-ns">
-      <p class="mb0 mv2-ns">September 2020 – December 2021</p>
+      <p class="mb0 mv2-ns">September 2020 – January 2022</p>
     </div>
     <div class="fl w-100 w-two-thirds-ns pl2-ns">
       <p class="mv2 b">Data Scientist (Internship)</p>
