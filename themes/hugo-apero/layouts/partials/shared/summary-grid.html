@@ -5,15 +5,15 @@
 <article class="w-100 w-50-m w-third-l mb4 pb4 bb bw1 bw0-ns pb0-ns">
   <!--if show_post_thumbnail is TRUE in root-->
   {{ if $root.Params.show_post_thumbnail }}
+  <!--featured image for the leaf bundle-->
+  {{- $images := $page.Resources.ByType "image" -}}
+  {{ $leaf := $images.GetMatch "*feature*" }}
+  {{- $hex := $images.GetMatch "*hex*" -}}
+  {{- $thumbnail := cond (ne $hex nil) $hex $leaf -}}
+  <!--sidebar image for the branch bundle-->
+  {{ $branch := ($section.Resources.ByType "image").GetMatch "*feature*" }}
+  {{- $thumbnail := cond (ne $thumbnail nil) $thumbnail $branch -}}
   <div class="ph0 ph2-m ph3-l">
-    <!--featured image for the leaf bundle-->
-    {{- $images := $page.Resources.ByType "image" -}}
-    {{ $leaf := $images.GetMatch "*feature*" }}
-    {{- $hex := $images.GetMatch "*hex*" -}}
-    {{- $thumbnail := cond (ne $hex nil) $hex $leaf -}}
-    <!--sidebar image for the branch bundle-->
-    {{ $branch := ($section.Resources.ByType "image").GetMatch "*feature*" }}
-    {{- $thumbnail := cond (ne $thumbnail nil) $thumbnail $branch -}}
     <div class="aspect-ratio aspect-ratio--1x1 {{ if (ne $hex nil) }}contain{{ else }}cover{{ end }} dim"{{ with $thumbnail }}style="background: url('{{ .RelPermalink | absURL }}') center center no-repeat"{{ end }}><a href="{{ .Permalink }}" class="w-100 absolute top-0 bottom-0"></a></div>
   </div>
   {{ end }}
