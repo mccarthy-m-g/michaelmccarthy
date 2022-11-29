@@ -5,7 +5,7 @@
 <article class="w-100 w-50-m w-third-l mb4 pb4 bb bw1 bw0-ns pb0-ns">
   <!--if show_post_thumbnail is TRUE in root-->
   <p>{{ $root.Params.show_post_thumbnail }}</p>
-  {{ if $root.Params.show_post_thumbnail }}
+  {{ if or ($root.Params.show_post_thumbnail) (not (isset $root.Params.show_post_thumbnail true)) }}
   <!--featured image for the leaf bundle-->
   {{- $images := $page.Resources.ByType "image" -}}
   {{ $leaf := $images.GetMatch "*feature*" }}
