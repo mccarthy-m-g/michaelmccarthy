@@ -1,7 +1,7 @@
 ---
 title: Projects with Impact
 description: |
-  My portfolio includes software and educational resources I have contributed to or created that solve real world problems..
+  My portfolio includes software and educational resources I have contributed to or created that solve real world problems...
 
 show_author_byline: true
 show_post_date: false
