@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Curriculum Vitae
 author: Michael McCarthy
 excerpt: |
