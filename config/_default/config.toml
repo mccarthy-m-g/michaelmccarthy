@@ -137,11 +137,11 @@ enableEmoji = true
     title = "Talks"
     url = "/talk/"
     weight = 4
-  [[menu.header]]
-    name = "Self Study"
-    title = "Self Study"
-    url = "/self-study/"
-    weight = 5
+  # [[menu.header]]
+  #   name = "Self Study"
+  #   title = "Self Study"
+  #   url = "/self-study/"
+  #   weight = 5
   # [[menu.header]]
   #   name = "Experience"
   #   title = "Experience"
