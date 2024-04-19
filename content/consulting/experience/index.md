@@ -7,7 +7,7 @@ excerpt: |
   for my work, and helped organizations make data informed decisions to improve
   the quality of their services.
 
-last_revised: Last revised October 12, 2022
+last_revised: Last revised February 18, 2024
 show_social_links: true
 
 # for list-sidebar layout
@@ -71,7 +71,7 @@ layout: single-series-cv
   <!-- Item 1 -->
   <div class="cf mv4">
     <div class="fl w-100 w-third-ns">
-      <p class="mb0 mv2-ns">September 2020 – Present</p>
+      <p class="mb0 mv2-ns">September 2020 – February 2024</p>
     </div>
     <div class="fl w-100 w-two-thirds-ns pl2-ns">
       <p class="mv2 b">Research Scientist</p>
@@ -157,7 +157,7 @@ layout: single-series-cv
   <!-- Item 1 -->
   <div class="cf mv4">
     <div class="fl w-100 w-third-ns">
-      <p class="mb0 mv2-ns">September 2020 – Present</p>
+      <p class="mb0 mv2-ns">February 2024</p>
     </div>
     <div class="fl w-100 w-two-thirds-ns pl2-ns">
       <p class="mv2 b">Master of Science, Psychology</p>
@@ -185,6 +185,97 @@ layout: single-series-cv
     </div>
     <div class="fl w-100 w-two-thirds-ns pl2-ns">
       <p class="mv2 b">Professional Communication Essentials Certificate</p>
+      <p class="di">University of the Fraser Valley</p>
+      <p class="di">&middot</p>
+      <p class="di">Abbotsford BC, Canada</p>
+    </div>
+  </div>
+</section>
+
+<!-- Honours and Awards -->
+<section class="bt mb4">
+  <header class="w-100">
+    <h5 class="f4 fw7 tracked ttu lh-title mv3">Honours and Awards</h5>
+  </header>
+  <!-- Item 1 -->
+  <div class="cf mv4">
+    <div class="fl w-100 w-third-ns">
+      <p class="mb0 mv2-ns">January 2022</p>
+    </div>
+    <div class="fl w-100 w-two-thirds-ns pl2-ns">
+      <p class="mv2 b">Graduate Studies Scholarship</p>
+      <p class="di">Faculty of Graduate Studies, University of Calgary</p>
+      <p class="di">&middot</p>
+      <p class="di">Calgary AB, Canada</p>
+    </div>
+  </div>
+  <!-- Item 2 -->
+  <div class="cf mv4">
+    <div class="fl w-100 w-third-ns">
+      <p class="mb0 mv2-ns">May 2021</p>
+    </div>
+    <div class="fl w-100 w-two-thirds-ns pl2-ns">
+      <p class="mv2 b">Canada Graduate Scholarship (Masters) </p>
+      <p class="di">Natural Sciences and Engineering Research Council of Canada</p>
+      <p class="di">&middot</p>
+      <p class="di">Canada</p>
+    </div>
+  </div>
+  <!-- Item 3 -->
+  <div class="cf mv4">
+    <div class="fl w-100 w-third-ns">
+      <p class="mb0 mv2-ns">May 2021</p>
+    </div>
+    <div class="fl w-100 w-two-thirds-ns pl2-ns">
+      <p class="mv2 b">Master's Research Scholarship</p>
+      <p class="di">Faculty of Graduate Studies, University of Calgary</p>
+      <p class="di">&middot</p>
+      <p class="di">Calgary AB, Canada</p>
+    </div>
+  </div>
+  <!-- Item 4 -->
+  <div class="cf mv4">
+    <div class="fl w-100 w-third-ns">
+      <p class="mb0 mv2-ns">August 2020</p>
+    </div>
+    <div class="fl w-100 w-two-thirds-ns pl2-ns">
+      <p class="mv2 b">Alberta Graduate Excellence Scholarship</p>
+      <p class="di">Alberta Student Aid</p>
+      <p class="di">&middot</p>
+      <p class="di">Calgary AB, Canada</p>
+    </div>
+  </div>
+  <!-- Item 5 -->
+  <div class="cf mv4">
+    <div class="fl w-100 w-third-ns">
+      <p class="mb0 mv2-ns">August 2019</p>
+    </div>
+    <div class="fl w-100 w-two-thirds-ns pl2-ns">
+      <p class="mv2 b">Certificate of Academic Excellence</p>
+      <p class="di">Canadian Psychological Association</p>
+      <p class="di">&middot</p>
+      <p class="di">Canada</p>
+    </div>
+  </div>
+  <!-- Item 6 -->
+  <div class="cf mv4">
+    <div class="fl w-100 w-third-ns">
+      <p class="mb0 mv2-ns">April 2018</p>
+    </div>
+    <div class="fl w-100 w-two-thirds-ns pl2-ns">
+      <p class="mv2 b">Dean of the College of Arts Award</p>
+      <p class="di">University of the Fraser Valley</p>
+      <p class="di">&middot</p>
+      <p class="di">Abbotsford BC, Canada</p>
+    </div>
+  </div>
+  <!-- Item 7 -->
+  <div class="cf mv4">
+    <div class="fl w-100 w-third-ns">
+      <p class="mb0 mv2-ns">April 2018</p>
+    </div>
+    <div class="fl w-100 w-two-thirds-ns pl2-ns">
+      <p class="mv2 b">Undergraduate Research Excellence Award</p>
       <p class="di">University of the Fraser Valley</p>
       <p class="di">&middot</p>
       <p class="di">Abbotsford BC, Canada</p>
@@ -262,7 +353,8 @@ layout: single-series-cv
       <p class="mv2 b">Industry Knowledge</p>
       <!-- Bullet points -->
       <ul class="pl3 mv2">
-        <li>Social sciences</li>
+        <li>Neuroscience</li>
+        <li>Social science</li>
         <li>Non-profits</li>
       </ul>
     </div>
