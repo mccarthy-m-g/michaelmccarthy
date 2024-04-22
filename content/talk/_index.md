@@ -2,8 +2,8 @@
 title: Talks that Last
 author: 
 description: |
-  My talks and workshops cover applied and educational topics in science and
-  programming, given to audiences large and small.
+  My papers, talks, and workshops cover applied and educational topics in science and
+  programming, presented to audiences large and small.
   
 show_author_byline: true
 show_post_date: true
