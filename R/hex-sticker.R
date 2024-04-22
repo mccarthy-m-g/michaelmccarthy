@@ -121,3 +121,37 @@ sticker(
   h_fill = "white",
   h_color = "#256291"
 )
+
+# alda ------------------------------------------------------------------------
+
+sysfonts::font_add_google(
+  "Playfair Display",
+  family = "Playfair Display",
+  bold.wt = 600
+)
+
+sticker(
+  filename = "content/project/alda/featured-hex.png",
+  # Sticker title
+  package = "alda",
+  p_x = 1,
+  p_y = 1,
+  p_color = "#070600",
+  p_family = "Playfair Display",
+  p_fontface = "bold",
+  p_size = 24,
+  # Sticker subplot
+  subplot = ggplot2::ggplot() + ggplot2::theme_void(),
+  # Sticker URL
+  url = "",
+  u_x = 1,
+  u_y = 0.08,
+  u_color = "black",
+  u_family = "Aller_Rg",
+  u_size = 8,
+  u_angle = 30,
+  # Sticker and border colour
+  h_size = 1.2,
+  h_fill = "#FFC2C5",
+  h_color = "#89023E"
+)
